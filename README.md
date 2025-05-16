@@ -1,6 +1,7 @@
 # Brick Breaker / Arkanoid (Vanilla JS + DOM)
 
 A simple, high-performance Brick Breaker / Arkanoid clone written in plain JavaScript, HTML and CSS—no frameworks, no `<canvas>`—built to run at a solid 60 FPS with smooth controls, performance monitoring, and a pause menu.
+![Screenshot 2025-05-16 170556](https://github.com/user-attachments/assets/16ad7f50-eade-44c3-a01a-64c51e181b61)
 
 ---
 
